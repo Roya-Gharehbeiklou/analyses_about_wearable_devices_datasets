@@ -1,14 +1,11 @@
 # **Comprehensive Health and Activity Data Analysis**
 
-## Introduction
-This repository contains an analysis of the wearables dataset from Kaggle (https://www.kaggle.com/datasets/manideepreddy966/wearables-dataset/data). The dataset includes data from wearable devices and other health indicators of individuals. The analysis aims to predict the probability of diabetes based on various features such as age, weight, height, exercise type and duration, calories burned and intake, sleep duration, heart rate, blood oxygen level, stress level, mood, skin temperature, body fat percentage, muscle mass, health score, notifications received, screen time, and more.
-
-
-
 ## **Project Overview**
 This project integrates and analyzes different datasets spanning personal health metrics, physical activity, environmental conditions, and digital interactions. The primary aim is to uncover meaningful patterns, identify health anomalies, and provide actionable insights to improve overall well-being.
 
 By combining data science techniques with domain knowledge, this project demonstrates the powerful intersection of technology and health analytics, enabling data-driven strategies for healthier lifestyles.
+
+This repository contains an analysis of the wearables dataset from Kaggle (https://www.kaggle.com/datasets/manideepreddy966/wearables-dataset/data). The dataset includes data from wearable devices and other health indicators of individuals. 
 
 ---
 ## **Key Features**
